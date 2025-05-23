@@ -1,3 +1,5 @@
+package hukusyu２;
+
 public class Review15 {
     public static void main(String[] args) {
         int num=12;

@@ -1,3 +1,5 @@
+package hukusyu２;
+
 public class Review26 {
     public static void main(String[] args) {
         int[] numArray = new int[]{10,11,12,13,14,15};

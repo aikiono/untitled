@@ -1,3 +1,5 @@
+package hukusyu２;
+
 public class Review23 {
     public static void main(String[] args) {
         int num=5;
