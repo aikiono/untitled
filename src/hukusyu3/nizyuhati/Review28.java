@@ -1,7 +1,7 @@
 package hukusyu3.nizyuhati;
 
 import java.io.*;
-public class Review28 {
+public class Review29 {
     public static void main(String[] args)throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("宛先を入力>");
