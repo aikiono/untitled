@@ -1,4 +1,4 @@
-package hukusyu3;
+package hukusyu3.nizyuhati;
 
 import java.io.*;
 public class Review28 {

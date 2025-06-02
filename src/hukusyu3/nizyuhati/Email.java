@@ -1,4 +1,4 @@
-package hukusyu3;
+package hukusyu3.nizyuhati;
 
 public class Email {
     public void send(String to, String body) {
